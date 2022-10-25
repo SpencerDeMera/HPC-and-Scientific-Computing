@@ -1,0 +1,11 @@
+By: Spencer DeMera
+Email: spencer.demera@csu.fullerton.edu
+Intro to HPC Homework #5
+
+== WARNING ==
+- Uncommenting/recommenting lines 32, 33, & 34 will enable / disable the array size values for 
+    those specific exercises
+
+Running (bash / Linux) :
+- Compile  : nvcc HW5.cu -o HW5.out
+- Run      : ./HW5.out

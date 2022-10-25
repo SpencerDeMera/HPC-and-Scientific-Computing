@@ -1,0 +1,12 @@
+By: Spencer DeMera
+Email: spencer.demera@csu.fullerton.edu
+Intro to HPC Homework #3
+
+== FIXED Version ==
+- Figured it out today after class + with first submission comments
+- Removed uncessary Send & Recv statements & if-checks
+- Left hardcoded array and MPI_Scan operator for it but commented out
+
+Running (bash / Linux) :
+- Compile Command  : mpicc HW3.c -o HW3.out
+- Run Command      : mpirun --oversubscribe -np 8 ./HW3.out

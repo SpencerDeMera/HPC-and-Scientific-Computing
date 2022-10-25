@@ -1,0 +1,13 @@
+By: Spencer DeMera
+Email: spencer.demera@csu.fullerton.edu
+Intro to HPC Homework #4
+
+== WARNING ==
+- Uncommenting lines 21 and 40 will reveal print messages for #1 and #2 that display their output
+
+Running (bash / Linux) :
+- Compile Command  :  gcc HW4.c -o HW4.out -fopenmp
+- Run Command      :  ./HW4.out
+
+P.S. Sometimes when you run it very quickly and repeatedly, the even counter will be lower by 8 * N,
+    seems to be from N number of threads not being free from previous run.

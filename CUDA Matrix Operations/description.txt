@@ -1,0 +1,16 @@
+By: Spencer DeMera
+Email: spencer.demera@csu.fullerton.edu
+Intro to HPC Homework #6
+**Tested natively on laptop's GTX 1650 Super
+
+== WARNING ==
+- No special instructions, program executes in single run with no need
+    for commenting/uncommenting lines.
+- Code / function calls for both exercises are marked in code.
+- Commented out Exercises 1 & 2 are what I originally wrote
+    - I originally thought Dr. Bein just wanted literally 2 __host__ functions
+    - Both work but disregard them (only saved for myself)
+
+Running (bash / Linux) :
+- Compile  : nvcc HW6.cu -o HW6.out
+- Run      : ./HW6.out
