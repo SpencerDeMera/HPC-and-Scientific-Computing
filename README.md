@@ -2,6 +2,7 @@
 Built for CPSC-479: Introduction to HPC
 
 Primary Author: Spencer C. DeMera
+<br/>
 Primary Author's Email: spencer.demera@csu.fullerton.edu
 
 ## Description
